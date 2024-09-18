@@ -29,7 +29,7 @@ Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by 
 PART K—Long COVID programs
 "SEC. 499B. Establishment of Long COVID research program.
 
-"(a) In general.—There is established within the Office of the Director of the National Institutes of Health a research program, to be known as the Long COVID Research Program (referred to in this part as the ‘Program’), for purposes of expediting research to identify new ways to prevent, detect, manage, and treat symptoms associated with Long COVID.
+"(a) In general.—There is established within the Office of the Director of the National Institutes of Health a research program, to be known as the Long COVID Research Program (referred to in this part as the ‘Program'), for purposes of expediting research to identify new ways to prevent, detect, manage, and treat symptoms associated with Long COVID.
 
 "(b) Director.—
 
@@ -183,7 +183,7 @@ PART K—Long COVID programs
 
 "SEC. 499B–4. Long COVID Research Program Advisory Board.
 
-"(a) In general.—The Director of NIH shall establish the Long COVID Research Program Advisory Board (referred to in this section as the ‘Advisory Board’).
+"(a) In general.—The Director of NIH shall establish the Long COVID Research Program Advisory Board (referred to in this section as the ‘Advisory Board').
 
 "(b) Membership.—
 
@@ -225,7 +225,7 @@ PART K—Long COVID programs
 
 "(c) Compensation.—Ex officio members of the Advisory Board who are officers or employees of the Federal Government shall not receive any compensation for service on the Advisory Board. Non-Federal members of the Advisory Board may receive, for each day (including travel time) they are engaged in the performance of the functions of the advisory committee, compensation at rates not to exceed the daily equivalent to the annual rate of basic pay for level III of the Executive Schedule under section 5314 of title 5, United States Code.
 
-"(d) Terms.—The term of office of an appointed member of the Advisory Board is 5 years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 60 days from the date the vacancy occurred.
+"(d) Terms.—The term of office of an appointed member of the Advisory Board is 5 years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 60 days from the date the vacancy occurred.
 
 "(e) Chair.—The members of the Advisory Board shall select a chair from among the appointed members. The term of the Office of Chair shall be 2 years.
 
@@ -253,7 +253,7 @@ PART K—Long COVID programs
 
 "(E) convene accessible meetings for the purpose of determining the recommendations which may inform development of clinical guidelines by health care provider organizations; and
 
-"(3) engage in other necessary activities to contribute to the National Institutes of Health’s overall research priorities related to Long COVID, and ensure accountability, transparency, and communication of results of the Program established under section 499B.”.
+"(3) engage in other necessary activities to contribute to the National Institutes of Health's overall research priorities related to Long COVID, and ensure accountability, transparency, and communication of results of the Program established under section 499B.”.
 
 "SEC. 499B–5. Data system and clearinghouse on research information.
 
