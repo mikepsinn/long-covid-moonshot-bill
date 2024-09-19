@@ -386,3 +386,60 @@ SEC. 206. Research on long covid best practices.
 (a) In general.—The Secretary of Health and Human Services, in coordination with the Director of the Agency for Healthcare Research and Quality, shall develop, test, synthesize, and disseminate best practices and decision support tools related to the clinical care organization, delivery, and integration of clinical and social services for Long COVID and other infection-associated chronic conditions.
 
 (b) Authorization of appropriations.—For the purposes of carrying out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2025 through 2034.
+
+SEC. 207. Establishment of a Decentralized Trial Platform.
+
+(a) In General.—The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health and in coordination with the Commissioner of Food and Drugs, shall establish an open-source decentralized trial platform to facilitate and accelerate research on Long COVID.
+
+(b) Platform Requirements.—The decentralized trial platform shall include:
+
+(1) A comprehensive relational database to store and analyze:
+(A) Clinical trial protocols specific to Long COVID research.
+(B) Observational and randomized control trial data related to Long COVID.
+(C) Interventional data related to the safety and efficacy of treatments for Long COVID.
+(D) Any additional data deemed necessary by the Secretary for quantifying the safety and efficacy of Long COVID treatments.
+
+(2) An open API and SDKs to enable:
+(A) Authorized entities to submit data to the Long COVID research database.
+(B) Secure methods for data authentication and authorization.
+(C) Submission of data related to Long COVID symptoms, treatments, side effects, and other relevant health information.
+
+(3) Advanced AI algorithms to:
+(A) Quantify the safety and efficacy of Long COVID treatments.
+(B) Perform quantitative cost-benefit analyses to inform decisions on potential treatments.
+(C) Generate meta-analyses of all available data to provide patients with information on the most effective treatments for their specific condition.
+(D) Publish analyzed data in a user-friendly format, including:
+(i) A ranked list of effective treatments for Long COVID.
+(ii) Information on factors that may exacerbate Long COVID symptoms.
+
+(4) An automated system for clinical trial creation and participation, allowing:
+(A) Researchers to create trials by entering interventions and desired outcomes.
+(B) Automatic generation of protocols based on provided information.
+(C) Patients to view available trials based on their specific condition and join instantly through the platform.
+(D) Automated scheduling of medication delivery and necessary lab tests for trial participants.
+(E) Direct submission of survey responses and relevant data by patients through the platform.
+
+(c) Open Source Requirement.—The entire codebase for the decentralized trial platform, including the database structure, APIs, SDKs, and AI algorithms, shall be made open source under a permissive license (such as MIT or Apache 2.0) to ensure transparency, allow for community contributions, and facilitate adoption by other research institutions.
+
+(d) Privacy and Security.—The Secretary shall ensure that the platform complies with all applicable privacy and security regulations, including HIPAA, while maintaining its open-source nature.
+
+(e) Collaboration.—In developing and implementing the platform, the Secretary shall collaborate with the Long COVID Research Program established under section 499B of the Public Health Service Act.
+
+SEC. 208. Patient Access and Empowerment.
+
+(a) Treatment Efficacy Information.—The platform shall provide a user-friendly interface allowing any patient to:
+(1) Input their specific Long COVID symptoms and conditions.
+(2) Receive AI-generated meta-analyses of all available data showing the most effective treatments for their particular case.
+(3) Access detailed information about potential treatments, including efficacy rates, side effects, and ongoing clinical trials.
+
+(b) Clinical Trial Participation.—The platform shall enable patients to:
+(1) Instantly join suitable clinical trials directly through the website.
+(2) Receive automated scheduling for medication delivery and required lab tests.
+(3) Submit surveys and upload relevant health data directly to the platform.
+(4) Track their progress and contribute to the overall body of research on Long COVID.
+
+SEC. 209. Data Collection for FDA Approval.
+
+(a) Comprehensive Data Collection.—The platform shall be designed to collect and store all necessary time series treatment and outcome data required to support FDA approval processes for Long COVID treatments.
+
+(b) Data Standardization.—The Secretary shall work with the FDA to ensure that data collected through the platform meets or exceeds the standards required for consideration in treatment approval decisions.
